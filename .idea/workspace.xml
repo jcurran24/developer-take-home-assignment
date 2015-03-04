@@ -2,138 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044276b2-8eb0-4200-bcb9-d93849df7633" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/cappex/CollegeProfileServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/classes/com/cappex/CollegeProfileServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/cappex/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/classes/com/cappex/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/cappex/SearchServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/classes/com/cappex/SearchServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/com.sun.el-2.2.0.v201303151357.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/com.sun.el-2.2.0.v201303151357.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/commons-lang3-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/derby-10.11.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/derby-10.11.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/h2-1.4.185.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/h2-1.4.185.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/javax.activation-1.1.0.v201105071233.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.activation-1.1.0.v201105071233.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/javax.annotation-1.1.0.v201108011116.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.annotation-1.1.0.v201108011116.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/javax.el-2.2.0.v201303151357.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.el-2.2.0.v201303151357.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/javax.mail.glassfish-1.4.1.v201005082020.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.mail.glassfish-1.4.1.v201005082020.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/javax.servlet-3.0.0.v201112011016.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-3.0.0.v201112011016.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/javax.servlet-api-3.1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/javax.servlet.jsp-2.2.0.v201112011158.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp-2.2.0.v201112011158.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/javax.transaction-1.1.1.v201105210645.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.transaction-1.1.1.v201105210645.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-annotations-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-annotations-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-continuation-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-continuation-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-http-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-http-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-io-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-io-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-jndi-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-jndi-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-jsp-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-jsp-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-plus-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-plus-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-security-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-security-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-server-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-server-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-servlet-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-servlet-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-servlets-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-servlets-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-util-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-util-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-webapp-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-webapp-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/jetty-xml-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-xml-9.0.5.v20130815.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/org.apache.jasper.glassfish-2.2.2.v201112011158.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/org.apache.jasper.glassfish-2.2.2.v201112011158.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/org.eclipse.jdt.core-3.8.2.v20130121.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/org.eclipse.jdt.core-3.8.2.v20130121.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/dependency/org.objectweb.asm-3.1.0.v200803061910.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/org.objectweb.asm-3.1.0.v200803061910.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cappex/CollegeProfileServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cappex/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_185.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_11_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_annotations_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_continuation_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_jndi_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_jsp_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_plus_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlets_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_0_5_v20130815.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_com_sun_el_2_2_0_v201303151357.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_activation_1_1_0_v201105071233.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_annotation_1_1_0_v201108011116.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_el_2_2_0_v201303151357.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_mail_glassfish_1_4_1_v201005082020.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_jsp_2_2_0_v201112011158.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_jsp_jstl_1_2_0_v201105211821.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_transaction_1_1_1_v201105210645.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_org_apache_jasper_glassfish_2_2_2_v201112011158.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_org_apache_taglibs_standard_glassfish_1_2_0_v201112081803.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_org_eclipse_jdt_core_3_8_2_v20130121.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_orbit_org_objectweb_asm_3_1_0_v200803061910.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cappex/SearchServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/collegeProfile.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/jsp/collegeProfile.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/developer-take-home-assignment.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/developer_take_home_assignment_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/js/jquery-2.1.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/js/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/search.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/jsp/search.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/styles/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/styles/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/developer-take-home-assignment.iml" afterPath="$PROJECT_DIR$/developer-take-home-assignment.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="developer-take-home-assignment.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -158,48 +29,7 @@
     <favorites_list name="developer-take-home-assignment" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CollegeProfileServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/CollegeProfileServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3488806" vertical-offset="248" max-vertical-offset="1605">
-              <caret line="41" column="70" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/search.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="54" selection-start-line="0" selection-start-column="54" selection-end-line="0" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -207,8 +37,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/cappex/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -396,6 +227,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="developer-take-home-assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="developer-take-home-assignment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cappex" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -666,7 +527,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24387646" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13099042" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -703,14 +564,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1590">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/CollegeProfileServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
@@ -729,8 +582,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3488806" vertical-offset="248" max-vertical-offset="1605">
-          <caret line="41" column="70" selection-start-line="41" selection-start-column="70" selection-end-line="41" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.3488806" vertical-offset="233" max-vertical-offset="1605">
+          <caret line="40" column="58" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5464481" vertical-offset="0" max-vertical-offset="1485">
+          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2935421" vertical-offset="0" max-vertical-offset="511">
+          <caret line="10" column="192" selection-start-line="10" selection-start-column="192" selection-end-line="10" selection-end-column="192" />
           <folding />
         </state>
       </provider>

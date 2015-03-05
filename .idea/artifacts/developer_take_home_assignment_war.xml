@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="developer-take-home-assignment:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="developer-take-home-assignment-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="developer-take-home-assignment:war exploded" />
+    </root>
+  </artifact>
+</component>

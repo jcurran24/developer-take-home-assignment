@@ -4,6 +4,7 @@
 <head>
   <meta name="fragment" content="!">
   <meta charset="utf-8">
+  <meta name="google-site-verification" content="BptgJwHZJZjhRrN9heiMDXEzsqoTbZ_DkOtUprhF-2c" />
   <title>College Search</title>
 
   <link href="/styles/styles.css" rel="stylesheet"/>

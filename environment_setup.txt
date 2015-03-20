@@ -1,0 +1,25 @@
+1. Install any subversion of Java JDK 1.7 from http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+
+2. Install IntelliJ IDEA 14 Community Edition from https://www.jetbrains.com/idea/download/
+
+3. Install Maven (we recommend 3.2.5 but most versions should work)
+
+4. Configure the Java environment
+a. Open Intellij and select File->'Project Structure' from the IntelliJ menu
+b. Select Project
+c. Under 'Project SDK:', select New->SDK and select the root folder of your Java JDK installation
+d. Under 'Project SDK':, using the dropdown, select the new SDK entry that you created in step c
+e. Under 'Project language level:', select '7 - Diamonds, ARM, multi-cache etc.'
+f. Select OK to close the 'Project Structure' window
+
+5. Configure Maven
+a. Select File->Settings from the IntelliJ menu and navigate to 'Build, Execution, Deployment'->'Build Tools'->Maven
+b. Set the Maven home directory to the root folder of your maven installation
+
+6. Open the developer take home assignment project
+a. Select File->Open from the IntelliJ menu
+b. Select the root directory of the take home test project, developer-take-home-assignment, and choose OK
+
+7. Start the server and test out the application
+a. Navigate to the com.cappex.Main class, right click on the class, and choose Debug
+b. Open a browser and navigate to localhost:8080 and you should be taken to the application test page which should display "Hello, this is the test page."

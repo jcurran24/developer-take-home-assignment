@@ -14,5 +14,7 @@
 
 This is the College Profile page.
 
+<script src="/js/jquery-2.1.3.min.js" type="text/javascript"></script>
+
 </body>
 </html>

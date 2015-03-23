@@ -8,7 +8,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-// TODO: Need to implement
+/**
+ * This servlet is responsible for loading the College Search page.
+ */
 
 @WebServlet(urlPatterns = {"/search"})
 public class SearchServlet extends HttpServlet {

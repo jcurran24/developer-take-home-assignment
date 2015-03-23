@@ -2,93 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044276b2-8eb0-4200-bcb9-d93849df7633" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/cappex/ExecuteSearchServlet.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/cappex-test-database.mv.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/cappex/CollegeProfileServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/cappex/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/cappex/SearchServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/com.sun.el-2.2.0.v201303151357.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/commons-lang3-3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/derby-10.11.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/h2-1.4.185.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/javax.activation-1.1.0.v201105071233.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/javax.annotation-1.1.0.v201108011116.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/javax.el-2.2.0.v201303151357.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/javax.mail.glassfish-1.4.1.v201005082020.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/javax.servlet-3.0.0.v201112011016.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/javax.servlet-api-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/javax.servlet.jsp-2.2.0.v201112011158.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/javax.transaction-1.1.1.v201105210645.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-annotations-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-continuation-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-http-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-io-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-jndi-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-jsp-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-plus-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-security-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-server-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-servlet-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-servlets-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-util-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-webapp-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/jetty-xml-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/org.apache.jasper.glassfish-2.2.2.v201112011158.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/org.eclipse.jdt.core-3.8.2.v20130121.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/dependency/org.objectweb.asm-3.1.0.v200803061910.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/classes/com/cappex/CollegeProfileServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/classes/com/cappex/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/classes/com/cappex/SearchServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/jsp/collegeProfile.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/jsp/search.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/com.sun.el-2.2.0.v201303151357.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/derby-10.11.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/h2-1.4.185.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.activation-1.1.0.v201105071233.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.annotation-1.1.0.v201108011116.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.el-2.2.0.v201303151357.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.mail.glassfish-1.4.1.v201005082020.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-3.0.0.v201112011016.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp-2.2.0.v201112011158.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/javax.transaction-1.1.1.v201105210645.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-annotations-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-continuation-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-http-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-io-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-jndi-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-jsp-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-plus-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-security-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-server-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-servlet-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-servlets-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-util-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-webapp-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/jetty-xml-9.0.5.v20130815.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/org.apache.jasper.glassfish-2.2.2.v201112011158.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/org.eclipse.jdt.core-3.8.2.v20130121.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/lib/org.objectweb.asm-3.1.0.v200803061910.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/js/jquery-2.1.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/js/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT/styles/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cappex/CollegeProfileServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/cappex/CollegeProfileServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cappex/SearchServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/cappex/SearchServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/developer-take-home-assignment.iml" afterPath="$PROJECT_DIR$/developer-take-home-assignment.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="developer-take-home-assignment.iws" />
@@ -115,103 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ExecuteSearchServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/ExecuteSearchServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/test.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="225">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/search.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/search.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="88" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="88" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="instructions.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/instructions.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="315">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="environment_setup.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/environment_setup.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="465">
-              <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.029469548" vertical-offset="0" max-vertical-offset="509">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web_application_requirements.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web_application_requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="330" max-vertical-offset="870">
-              <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CollegeProfileServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/CollegeProfileServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="345">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -856,7 +679,13 @@
       <option name="project" value="LOCAL" />
       <updated>1425679100162</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="1. Adding .gitignore and including files and directories that should be ignored.  2. Creating servlet for performing college search.">
+      <created>1427125970548</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1427125970548</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -873,26 +702,26 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3433923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3433923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3257024" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13045794" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21618743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3433923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3257024" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -951,7 +780,8 @@
     <MESSAGE value="added logging" />
     <MESSAGE value="more logging" />
     <MESSAGE value="tweaks" />
-    <option name="LAST_COMMIT_MESSAGE" value="tweaks" />
+    <MESSAGE value="1. Adding .gitignore and including files and directories that should be ignored.  2. Creating servlet for performing college search." />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Adding .gitignore and including files and directories that should be ignored.  2. Creating servlet for performing college search." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1071,6 +901,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="345">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1132,10 +963,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/CollegeProfileServlet.java">
+    <entry file="file://$PROJECT_DIR$/environment_setup.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
           <folding />
         </state>
       </provider>
@@ -1148,10 +979,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/environment_setup.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/CollegeProfileServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="15" column="58" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.26522595" vertical-offset="0" max-vertical-offset="509">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -1159,7 +990,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.029469548" vertical-offset="0" max-vertical-offset="509">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>

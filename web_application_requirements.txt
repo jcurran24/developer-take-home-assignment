@@ -15,7 +15,7 @@ When a user resizes the screen
 They will see the company header image resize with the screen
 
 When a user types at least two characters into the college search input box
-They will view search results for colleges that contain those characters
+They will view search results for colleges that contain those characters.  PLEASE NOTE - We ask that you do NOT use an existing JavaScript library that performs auto-complete search.  ie, Using jQuery is perfectly fine but using jQuery UI's Autocomplete is NOT.
 
 When a user searches for colleges
 The page will not refresh

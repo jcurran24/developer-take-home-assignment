@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 /**
- * This servlet is responsible for loading the College Profile page.
+ * This servlet is responsible for performing college search.
  */
 
 @WebServlet(urlPatterns = {"/execute-search"})

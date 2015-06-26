@@ -12,11 +12,11 @@ import java.io.IOException;
  * This servlet is responsible for loading the College Search page.
  */
 
-@WebServlet(urlPatterns = {"/search"})
+@WebServlet(urlPatterns = {"/college-search", ""})
 public class SearchServlet extends HttpServlet {
 
     @Override
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+    protected void doGet(HttpServletRequest request, HttpServletResponse response	) throws ServletException, IOException {
         RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/jsp/search.jsp");
         dispatcher.forward(request, response);
     }

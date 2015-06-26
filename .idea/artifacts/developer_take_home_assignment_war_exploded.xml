@@ -2,7 +2,6 @@
   <artifact type="exploded-war" name="developer-take-home-assignment:war exploded">
     <output-path>$PROJECT_DIR$/target/developer-take-home-assignment-1.0-SNAPSHOT</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="developer-take-home-assignment/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="developer-take-home-assignment" />
@@ -40,6 +39,7 @@
           <element id="library" level="project" name="Maven: com.h2database:h2:1.4.185" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="developer-take-home-assignment/web/Web" />
     </root>
   </artifact>
 </component>

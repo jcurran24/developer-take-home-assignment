@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044276b2-8eb0-4200-bcb9-d93849df7633" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/cappex/CollegeProfileServlet.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/collegeProfile.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/test.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wireframe/college_profile_wireframe.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cappex/Main.java" afterPath="$PROJECT_DIR$/src/main/java/com/cappex/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cappex/SearchServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/cappex/SearchServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/developer-take-home-assignment.iml" afterPath="$PROJECT_DIR$/developer-take-home-assignment.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/developer_take_home_assignment_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/developer_take_home_assignment_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/environment_setup.txt" afterPath="$PROJECT_DIR$/environment_setup.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/js/search.js" afterPath="$PROJECT_DIR$/src/main/webapp/js/search.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/search.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/search.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web_application_requirements.txt" afterPath="$PROJECT_DIR$/web_application_requirements.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="developer-take-home-assignment.iws" />
@@ -40,174 +26,7 @@
     <favorites_list name="developer-take-home-assignment" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1845">
-              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-              <folding>
-                <marker date="1435260568000" expanded="true" signature="1317:1464" placeholder="CREATE TABLE..colleges..." />
-                <marker date="1435260568000" expanded="true" signature="1490:1625" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="1651:1780" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="1806:1931" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="1957:2079" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="2106:2179" placeholder="CREATE TABLE..majors..." />
-                <marker date="1435260568000" expanded="true" signature="2205:2256" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="2282:2353" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="2379:2421" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="2447:2498" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="2524:2569" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="2595:2637" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="2663:2715" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="2742:2834" placeholder="CREATE TABLE..college_majors..." />
-                <marker date="1435260568000" expanded="true" signature="2860:2921" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="2947:3008" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3034:3095" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3121:3182" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3208:3269" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3295:3356" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3382:3443" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3469:3530" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3556:3617" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3643:3704" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3730:3791" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3817:3878" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3904:3965" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="3991:4052" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="4078:4139" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="4165:4226" placeholder="INSERT INTO ..." />
-                <marker date="1435260568000" expanded="true" signature="4280:4345" placeholder="SELECT id, n..colleges..." />
-                <marker date="1435260568000" expanded="true" signature="4900:4927" placeholder="SELECT id, n..majors..." />
-                <marker date="1435260568000" expanded="true" signature="5205:5256" placeholder="SELECT id, c..college_majors..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search.jsp" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/search.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="360">
-              <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cappex_header.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/img/cappex_header.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchServlet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/SearchServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-              <caret line="22" column="45" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery-2.1.3.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/jquery-2.1.3.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="search.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/js/search.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-              <caret line="0" column="134" selection-start-line="0" selection-start-column="134" selection-end-line="0" selection-end-column="134" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/styles/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <caret line="19" column="89" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="instructions.txt" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/instructions.txt">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06521739" vertical-offset="0" max-vertical-offset="460">
-              <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web_application_requirements.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web_application_requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="college_search_wireframe.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wireframe/college_search_wireframe.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExecuteSearchServlet.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/ExecuteSearchServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="environment_setup.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/environment_setup.txt">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="465">
-              <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-              <caret line="9" column="51" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -873,7 +692,7 @@
       <workItem from="1426778961217" duration="227000" />
       <workItem from="1426779269369" duration="180000" />
       <workItem from="1435258507359" duration="3071000" />
-      <workItem from="1435347131116" duration="1447000" />
+      <workItem from="1435347131116" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1425585781599</created>
@@ -915,11 +734,15 @@
       <created>1427125970548</created>
       <updated>1427125970548</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Simplifying the take-home.  Just focusing on the Ajax college search functionality.">
+      <created>1435348658379</created>
+      <updated>1435348658379</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17651000" />
+    <option name="totallyTimeSpent" value="17691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
@@ -947,7 +770,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.13045794" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32747602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32747602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -960,7 +783,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.44029075" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4401665" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -971,8 +794,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32747602" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -981,7 +804,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3433923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32466182" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3236212" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1013,7 +836,8 @@
     <MESSAGE value="more logging" />
     <MESSAGE value="tweaks" />
     <MESSAGE value="1. Adding .gitignore and including files and directories that should be ignored.  2. Creating servlet for performing college search." />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Adding .gitignore and including files and directories that should be ignored.  2. Creating servlet for performing college search." />
+    <MESSAGE value="Simplifying the take-home.  Just focusing on the Ajax college search functionality." />
+    <option name="LAST_COMMIT_MESSAGE" value="Simplifying the take-home.  Just focusing on the Ajax college search functionality." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1030,39 +854,39 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2025">
           <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
-            <marker date="1435260568000" expanded="true" signature="1317:1464" placeholder="CREATE TABLE..colleges..." />
-            <marker date="1435260568000" expanded="true" signature="1490:1625" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="1651:1780" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="1806:1931" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="1957:2079" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2106:2179" placeholder="CREATE TABLE..majors..." />
-            <marker date="1435260568000" expanded="true" signature="2205:2256" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2282:2353" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2379:2421" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2447:2498" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2524:2569" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2595:2637" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2663:2715" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2742:2834" placeholder="CREATE TABLE..college_majors..." />
-            <marker date="1435260568000" expanded="true" signature="2860:2921" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2947:3008" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3034:3095" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3121:3182" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3208:3269" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3295:3356" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3382:3443" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3469:3530" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3556:3617" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3643:3704" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3730:3791" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3817:3878" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3904:3965" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3991:4052" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="4078:4139" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="4165:4226" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="4280:4345" placeholder="SELECT id, n..colleges..." />
-            <marker date="1435260568000" expanded="true" signature="4900:4927" placeholder="SELECT id, n..majors..." />
-            <marker date="1435260568000" expanded="true" signature="5205:5256" placeholder="SELECT id, c..college_majors..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..colleges..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..majors..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..college_majors..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="SELECT id, n..colleges..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="SELECT id, n..majors..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="SELECT id, c..college_majors..." />
           </folding>
         </state>
       </provider>
@@ -1238,25 +1062,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/styles/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <caret line="19" column="89" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <caret line="0" column="134" selection-start-line="0" selection-start-column="134" selection-end-line="0" selection-end-column="134" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web_application_requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+        <state vertical-scroll-proportion="0.4225352" vertical-offset="0" max-vertical-offset="497">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
@@ -1264,7 +1072,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/ExecuteSearchServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+        <state vertical-scroll-proportion="0.2647059" vertical-offset="0" max-vertical-offset="510">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
@@ -1272,49 +1080,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="73" max-vertical-offset="1845">
+        <state vertical-scroll-proportion="0.3360161" vertical-offset="73" max-vertical-offset="1845">
           <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
           <folding>
-            <marker date="1435260568000" expanded="true" signature="1317:1464" placeholder="CREATE TABLE..colleges..." />
-            <marker date="1435260568000" expanded="true" signature="1490:1625" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="1651:1780" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="1806:1931" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="1957:2079" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2106:2179" placeholder="CREATE TABLE..majors..." />
-            <marker date="1435260568000" expanded="true" signature="2205:2256" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2282:2353" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2379:2421" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2447:2498" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2524:2569" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2595:2637" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2663:2715" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2742:2834" placeholder="CREATE TABLE..college_majors..." />
-            <marker date="1435260568000" expanded="true" signature="2860:2921" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="2947:3008" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3034:3095" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3121:3182" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3208:3269" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3295:3356" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3382:3443" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3469:3530" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3556:3617" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3643:3704" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3730:3791" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3817:3878" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3904:3965" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="3991:4052" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="4078:4139" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="4165:4226" placeholder="INSERT INTO ..." />
-            <marker date="1435260568000" expanded="true" signature="4280:4345" placeholder="SELECT id, n..colleges..." />
-            <marker date="1435260568000" expanded="true" signature="4900:4927" placeholder="SELECT id, n..majors..." />
-            <marker date="1435260568000" expanded="true" signature="5205:5256" placeholder="SELECT id, c..college_majors..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..colleges..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..majors..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..college_majors..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="SELECT id, n..colleges..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="SELECT id, n..majors..." />
+            <marker date="1435260568000" expanded="true" signature="-1:-1" placeholder="SELECT id, c..college_majors..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cappex/SearchServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+        <state vertical-scroll-proportion="0.49281314" vertical-offset="0" max-vertical-offset="487">
           <caret line="22" column="45" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
@@ -1338,28 +1146,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <caret line="9" column="51" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wireframe/college_search_wireframe.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/environment_setup.txt">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.333333" vertical-offset="0" max-vertical-offset="465">
-          <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/instructions.txt">
@@ -1367,8 +1156,43 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06521739" vertical-offset="0" max-vertical-offset="460">
-          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.39130434" vertical-offset="0" max-vertical-offset="460">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/styles/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5852156" vertical-offset="0" max-vertical-offset="487">
+          <caret line="19" column="89" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/js/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="134" selection-start-line="0" selection-start-column="134" selection-end-line="0" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/environment_setup.txt">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7453416" vertical-offset="0" max-vertical-offset="483">
+          <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2647059" vertical-offset="0" max-vertical-offset="510">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding />
         </state>
       </provider>

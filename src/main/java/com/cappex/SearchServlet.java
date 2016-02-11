@@ -39,10 +39,14 @@ public class SearchServlet extends HttpServlet {
             //Object to JSON in String
             String jsonInString = mapper.writeValueAsString(searchResults);
 
-            request.setAttribute("resultsFound", true);
-            request.setAttribute("searchResults", jsonInString);
+            //request.setAttribute("resultsFound", true);
+            //request.setAttribute("searchResults", jsonInString);
+
+            response.setContentType("application/json");
+            response.setCharacterEncoding("UTF-8");
+            response.getWriter().write(jsonInString);
         } else {
-            request.setAttribute("resultsFound", false);
+            //request.setAttribute("resultsFound", false);
         }
 
         RequestDispatcher dispatcher = request.getRequestDispatcher("/WEB-INF/jsp/search.jsp");

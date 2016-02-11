@@ -15,4 +15,4 @@ If you're a developer candidate, please take a look at the following files inste
 
 * instructions.txt
 * environment_setup.txt
-* web_application_requirements.txt
+* web_application_requirements.txt# developer-take-home-assignment

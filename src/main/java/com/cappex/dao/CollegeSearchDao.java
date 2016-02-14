@@ -42,7 +42,7 @@ public class CollegeSearchDao {
 
         try (Statement statement = theConnection.createStatement()) {
 
-            ResultSet resultSet = statement.executeQuery("SELECT * FROM colleges WHERE name = '" + searchNameSubset + "';");
+            ResultSet resultSet = statement.executeQuery("SELECT * FROM colleges WHERE name LIKE '%" + searchNameSubset + "%';");
 
             while (resultSet.next()) {
                 college = new College();

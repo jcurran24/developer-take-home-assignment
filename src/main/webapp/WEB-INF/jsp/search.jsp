@@ -17,16 +17,16 @@
 
 <body>
 
-<div id="headingTitleDiv" style="width:100%;"><span id="headingTitle" style="padding:5px;margin-left:300px; text-align:center; color:black; border:1px; font-size:24px;">College Search</span></div>
+<div id="headingTitleDiv"><span id="headingTitle">College Search</span></div>
 <br>
 
-<div id="searchContainer" class="ui-toolbar ui-widget-header ui-helper-clearfix" style="padding:5px;margin-left:300px;border:none; background:#FFFFFF">
+<div id="searchContainer" class="ui-toolbar ui-widget-header ui-helper-clearfix">
     <span style="position: absolute;" class="btnSearch ui-state-default" title="search"><span class="ui-icon ui-icon-search"></span></span>
-    <input type="search" class="right" id="searchBox" placeholder="    Search" style="margin-left:10px;width:185px;"/><br>
-    <select id="autoCompleteDropDown" size="4" style="display:none; width:195px;"></select>
+    <input type="search" class="right" id="searchBox" placeholder="    Search" /><br>
+    <select id="autoCompleteDropDown" size="4"></select>
 </div>
 <br>
-<div id="noSearchResultsContainer" style="margin-left:45px; text-align:center; color:black; display:none;">
+<div id="noSearchResultsContainer">
     <span id="noSearchResults">No search results. Please try again.</span>
 </div>
 

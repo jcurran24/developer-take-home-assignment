@@ -10,6 +10,13 @@
   <link href="http://code.jquery.com/ui/1.10.2/themes/blitzer/jquery-ui.css" rel="stylesheet" type="text/css" />
 
   <script src="/js/jquery-2.1.3.min.js" type="text/javascript"></script>
+  <script src="/js/search.js" type="text/javascript"></script>
+
+  <script type="text/javascript">
+        $(document).ready(function() {
+            setupChangeEventListenerOnSearchBox();
+        });
+  </script>
 
 
 
@@ -29,44 +36,6 @@
 <div id="noSearchResultsContainer">
     <span id="noSearchResults">No search results. Please try again.</span>
 </div>
-
-<script type="text/javascript">
-
-
-     $("#searchBox").on("change keyup paste", function() {
-        console.log("Textbox has changed");
-        var searchStr = $('#searchBox').val();
-
-        if($("#searchBox").val().length >= 2) {
-            $("#autoCompleteDropDown").empty();
-            $("#noSearchResultsContainer").hide();
-            $.ajax({url: "/execute-search?collegeName=" + searchStr,
-            success: function(data, status) {
-                console.log("Retrieved data in ajax call: " + data);
-                var dropDownListSize = 0;
-                $.each(data, function(i, item) {
-                     $("#autoCompleteDropDown").append($("<option></option>")
-                                                        .attr("value",i)
-                                                        .text(item.name));
-                     dropDownListSize = i + 1;
-                });
-                if(dropDownListSize >= 1) {
-                    $("#autoCompleteDropDown").attr("size", dropDownListSize);
-                    $("#autoCompleteDropDown").show();
-                } else {
-                    $("#noSearchResultsContainer").show();
-                }
-            }});
-        } else if($("#searchBox").val().length < 2) {
-            $("#autoCompleteDropDown").empty();
-            $("#autoCompleteDropDown").hide();
-            $("#noSearchResultsContainer").hide();
-        }
-     });
-</script>
-
-<script src="/js/search.js" type="text/javascript"></script>
-
 
 </body>
 </html>

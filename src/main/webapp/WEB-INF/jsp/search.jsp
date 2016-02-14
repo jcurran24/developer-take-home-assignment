@@ -24,12 +24,16 @@
 
 <body>
 
+<div id="headerImage"></div>
 <div id="headingTitleDiv"><span id="headingTitle">College Search</span></div>
 <br>
 
+<div id="collegeNameInputBoxHeading">
+    <span>ENTER COLLEGE NAME</span>
+</div>
 <div id="searchContainer" class="ui-toolbar ui-widget-header ui-helper-clearfix">
-    <span style="position: absolute;" class="btnSearch ui-state-default" title="search"><span class="ui-icon ui-icon-search"></span></span>
-    <input type="search" class="right" id="searchBox" placeholder="    Search" /><br>
+    <span id="searchIcon" class="btnSearch ui-state-default" title="search"><span class="ui-icon ui-icon-search"></span></span>
+    <input type="search" class="right" id="searchBox" placeholder="Search" /><br>
     <select id="autoCompleteDropDown" size="4"></select>
 </div>
 <br>

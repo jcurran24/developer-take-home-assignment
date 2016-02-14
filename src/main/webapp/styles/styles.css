@@ -37,6 +37,11 @@ border:1px;
 font-size:24px;
 }
 
+#collegeNameInputBoxHeading {
+    margin-left: 300px;
+    font-size: 10px;
+}
+
 #searchContainer {
 padding:5px;
 margin-left:300px;
@@ -45,13 +50,14 @@ background:#FFFFFF;
 }
 
 #searchBox {
-    margin-left:10px;
+    margin-left: 9px;
     width:185px;
 }
 
 #autoCompleteDropDown {
     display:none;
-    width:195px;
+    width:202px;
+    margin-left:-8px;
 }
 
 #noSearchResultsContainer {
@@ -59,4 +65,15 @@ background:#FFFFFF;
     text-align:center;
     color:black;
     display:none;
+}
+
+#searchIcon {
+    position: absolute;
+    margin-left: -8px;
+}
+
+#headerImage {
+    background: url(/img/cappex_header.png) 1% 1% no-repeat;
+    height:100px;
+    width:auto;
 }

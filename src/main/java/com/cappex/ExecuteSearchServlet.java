@@ -23,7 +23,6 @@ public class ExecuteSearchServlet extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        // TODO: Write code that performs the search
         if (request.getParameter("collegeName") != null) {
             String searchParam = request.getParameter("collegeName");
 
@@ -39,14 +38,9 @@ public class ExecuteSearchServlet extends HttpServlet {
             //Object to JSON in String
             String jsonInString = mapper.writeValueAsString(searchResults);
 
-            //request.setAttribute("resultsFound", true);
-            //request.setAttribute("searchResults", jsonInString);
-
             response.setContentType("application/json");
             response.setCharacterEncoding("UTF-8");
             response.getWriter().write(jsonInString);
-        } else {
-            //request.setAttribute("resultsFound", false);
         }
     }
 }

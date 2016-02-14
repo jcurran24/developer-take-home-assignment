@@ -7,6 +7,7 @@
   <title>College Search</title>
 
   <link href="/styles/styles.css" rel="stylesheet"/>
+  <link href="http://code.jquery.com/ui/1.10.2/themes/blitzer/jquery-ui.css" rel="stylesheet" type="text/css" />
 
   <script src="/js/jquery-2.1.3.min.js" type="text/javascript"></script>
 
@@ -16,37 +17,50 @@
 
 <body>
 
-<div id="headingTitleDiv" style="width:100%;"><span id="headingTitle" style="margin-left:300px; text-align:center; color:black; border:1px; font-size:24px;">College Search</span></div>
+<div id="headingTitleDiv" style="width:100%;"><span id="headingTitle" style="padding:5px;margin-left:300px; text-align:center; color:black; border:1px; font-size:24px;">College Search</span></div>
 <br>
 
-<div id="searchContainer" class="cf sb" style="margin-left:300px;">
-    <div class="right magnifier"></div>
-    <input class="right" type="text" id="searchBox" placeholder="search"/>
-    <select id="autoCompleteDropDown" style="display:none">
-    </select>
+<div id="searchContainer" class="ui-toolbar ui-widget-header ui-helper-clearfix" style="padding:5px;margin-left:300px;border:none; background:#FFFFFF">
+    <span style="position: absolute;" class="btnSearch ui-state-default" title="search"><span class="ui-icon ui-icon-search"></span></span>
+    <input type="search" class="right" id="searchBox" placeholder="    Search" style="margin-left:10px;width:185px;"/><br>
+    <select id="autoCompleteDropDown" size="4" style="display:none; width:195px;"></select>
+</div>
+<br>
+<div id="noSearchResultsContainer" style="margin-left:45px; text-align:center; color:black; display:none;">
+    <span id="noSearchResults">No search results. Please try again.</span>
 </div>
 
 <script type="text/javascript">
+
+
      $("#searchBox").on("change keyup paste", function() {
         console.log("Textbox has changed");
         var searchStr = $('#searchBox').val();
 
         if($("#searchBox").val().length >= 2) {
+            $("#autoCompleteDropDown").empty();
+            $("#noSearchResultsContainer").hide();
             $.ajax({url: "/execute-search?collegeName=" + searchStr,
             success: function(data, status) {
                 console.log("Retrieved data in ajax call: " + data);
-
+                var dropDownListSize = 0;
                 $.each(data, function(i, item) {
                      $("#autoCompleteDropDown").append($("<option></option>")
                                                         .attr("value",i)
                                                         .text(item.name));
+                     dropDownListSize = i + 1;
                 });
-                $("#autoCompleteDropDown").show();
-
+                if(dropDownListSize >= 1) {
+                    $("#autoCompleteDropDown").attr("size", dropDownListSize);
+                    $("#autoCompleteDropDown").show();
+                } else {
+                    $("#noSearchResultsContainer").show();
+                }
             }});
         } else if($("#searchBox").val().length < 2) {
             $("#autoCompleteDropDown").empty();
             $("#autoCompleteDropDown").hide();
+            $("#noSearchResultsContainer").hide();
         }
      });
 </script>
